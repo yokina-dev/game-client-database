@@ -254,8 +254,6 @@ Columns:
 
 A list of classes that characters can be. 
 
-See this [wiki article](http://en.wikipedia.org/wiki/Character_class) in regards to what rpg classes are and the different types.
-
 Columns:
 - class_id
 - name
@@ -318,8 +316,6 @@ Rows:
 ## status_effect
 
 A "status effect" is usually some temporary advantage or hindrance given to a character by some mean, perhaps from an ability, an item, or being at some place.
-
-See this [wiki article](http://en.wikipedia.org/wiki/Status_effect) in regards to what rpg status effects are and examples.
 
 Columns:
 - status_effect_id
