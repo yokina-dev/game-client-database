@@ -1,4 +1,4 @@
-# MySQL-RPG-Schema
+# Game client database system
 
 A database schema for role-playing games
 
