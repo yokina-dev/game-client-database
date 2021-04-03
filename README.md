@@ -104,8 +104,6 @@ Columns:
 
 A basic list of attributes.
 
-See this [wiki article](http://en.wikipedia.org/wiki/Attribute_(role-playing_games)) in regards to rpg attributes.
-
 Columns:
 - attribute_id
 - name
